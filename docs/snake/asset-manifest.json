@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2237b7f0.chunk.css",
-    "main.js": "/static/js/main.424bdaca.chunk.js",
-    "main.js.map": "/static/js/main.424bdaca.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.76397671.js",
-    "runtime-main.js.map": "/static/js/runtime-main.76397671.js.map",
-    "static/js/2.5cc6967a.chunk.js": "/static/js/2.5cc6967a.chunk.js",
-    "static/js/2.5cc6967a.chunk.js.map": "/static/js/2.5cc6967a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.94186ed6e58a0ad42310a7e6ebfcae79.js": "/precache-manifest.94186ed6e58a0ad42310a7e6ebfcae79.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2237b7f0.chunk.css.map": "/static/css/main.2237b7f0.chunk.css.map",
-    "static/js/2.5cc6967a.chunk.js.LICENSE.txt": "/static/js/2.5cc6967a.chunk.js.LICENSE.txt"
+    "main.css": "https://tanmancan.github.io/examples/snake/static/css/main.2237b7f0.chunk.css",
+    "main.js": "https://tanmancan.github.io/examples/snake/static/js/main.3ce26e8d.chunk.js",
+    "main.js.map": "https://tanmancan.github.io/examples/snake/static/js/main.3ce26e8d.chunk.js.map",
+    "runtime-main.js": "https://tanmancan.github.io/examples/snake/static/js/runtime-main.5c328eb4.js",
+    "runtime-main.js.map": "https://tanmancan.github.io/examples/snake/static/js/runtime-main.5c328eb4.js.map",
+    "static/js/2.5cc6967a.chunk.js": "https://tanmancan.github.io/examples/snake/static/js/2.5cc6967a.chunk.js",
+    "static/js/2.5cc6967a.chunk.js.map": "https://tanmancan.github.io/examples/snake/static/js/2.5cc6967a.chunk.js.map",
+    "index.html": "https://tanmancan.github.io/examples/snake/index.html",
+    "precache-manifest.3fa717a7a1a5d6b27165960ff5179488.js": "https://tanmancan.github.io/examples/snake/precache-manifest.3fa717a7a1a5d6b27165960ff5179488.js",
+    "service-worker.js": "https://tanmancan.github.io/examples/snake/service-worker.js",
+    "static/css/main.2237b7f0.chunk.css.map": "https://tanmancan.github.io/examples/snake/static/css/main.2237b7f0.chunk.css.map",
+    "static/js/2.5cc6967a.chunk.js.LICENSE.txt": "https://tanmancan.github.io/examples/snake/static/js/2.5cc6967a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76397671.js",
+    "static/js/runtime-main.5c328eb4.js",
     "static/js/2.5cc6967a.chunk.js",
     "static/css/main.2237b7f0.chunk.css",
-    "static/js/main.424bdaca.chunk.js"
+    "static/js/main.3ce26e8d.chunk.js"
   ]
 }
